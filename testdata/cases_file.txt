@@ -1,0 +1,10 @@
+PROBLEM:
+This demonstrates string case with files.
+
+CASES:
+CASE_FILE: data.txt
+obviously julie
+
+CASE_FILE: data.json
+foo
+

@@ -1,0 +1,21 @@
+PROBLEM:
+Check whether a string is a palindrome.
+
+CASES:
+a
+true
+
+foo
+false
+
+bob
+true
+
+civic
+true
+
+noon
+true
+
+Yey
+false

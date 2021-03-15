@@ -1,0 +1,15 @@
+PROBLEM:
+This is a statement of the problem.
+It can span multiple lines for a paragraph.
+
+It can have a paragraph by having 2 newlines between.
+
+Here is some indented text which preserves newlines:
+
+  The quick brown fox
+  Jumped over the lazy dog
+    Poor sod.
+
+
+ANSWER:
+This is my answer

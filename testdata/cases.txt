@@ -1,0 +1,14 @@
+PROBLEM:
+This demonstrates string case and answers.
+
+CASES:
+1, 2
+obviously julie
+
+the, quick, brown, fox
+foo
+bar
+
+the quick, brown, fox
+bar
+baz

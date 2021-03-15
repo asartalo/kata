@@ -1,0 +1,27 @@
+PROBLEM:
+This is JavaScript specific. Without using builtin functions, write an expression that divides a number by two and returns the floor. e.g. fn(2) = 1; fn(5) = 2;
+
+CASES:
+1
+0
+
+2
+1
+
+3
+1
+
+4
+2
+
+5
+2
+
+10000
+5000
+
+10001
+5000
+
+9999
+4999

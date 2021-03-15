@@ -1,0 +1,9 @@
+.DS_Store
+._.DS_Store
+check
+problems/euler
+problems/ocw-i2al
+problems/exam
+solutions/*
+solutions-bak/*
+/npm-debug.log*

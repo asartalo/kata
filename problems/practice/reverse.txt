@@ -1,0 +1,12 @@
+PROBLEM:
+Given a string, reverse the values of the string. Do not use libraries.
+
+CASES:
+foo
+oof
+
+thequickbrownpoop
+poopnworbkciuqeht
+
+fool
+loof
